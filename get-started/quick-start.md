@@ -4,7 +4,7 @@
 
 > #### info::注意
 >
-> 在此已默认您已进入百迈客云平台，否则请先[登录](https://console.biocloud.net/external/login/toLogin)。
+> ![warn](img.biocloud.net/docs/warning.png)在此已默认您已进入百迈客云平台，否则请先[登录](https://console.biocloud.net/external/login/toLogin)。
 
 ## 创建项目
 
