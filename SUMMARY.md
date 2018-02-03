@@ -10,7 +10,7 @@
     * [分析平台指南](tools-on-bmkcloud/workflow-help.md)
     * [平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
     * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/ref-help.md)
-    * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/noref-help.md)
+    * [真核生物无参考基因组的转录组分析平台](workflow-on-bmkcloud/noref-help.md)
     * [小RNA测序分析平台](workflow-on-bmkcloud/sran-help.md)
     * [长链非编码RNA测序分析平台](workflow-on-bmkcloud/lncrna-help.md)
     * [微生物多样性分析平台](workflow-on-bmkcloud/microbial-diversity-help.md)
