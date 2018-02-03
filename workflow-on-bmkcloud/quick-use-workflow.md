@@ -7,6 +7,7 @@
 * [小RNA测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
 * [长链非编码RNA测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
 * [微生物多样性分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
+
 #### 医学分析平台
 * [医学有参考基因组的转录组分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
 * [外显子组测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
