@@ -2,8 +2,7 @@
 
 接下来带您进行一次完整的生物云平台体验。
 
-> #### info::注意
->
+
 > ![warn](https://img.biocloud.net/docs/warning.png)在此已默认您已进入百迈客云平台，否则请先[登录](https://console.biocloud.net/external/login/toLogin)。
 
 ## 创建项目

@@ -8,7 +8,7 @@
     * [快速帮助](get-started/online-help.md)
 * [分析平台使用](workflow-on-bmkcloud.md)
     * [分析平台指南](tools-on-bmkcloud/workflow-help.md)
-    * [平台极速体验](workflow-on-bmkcloud/ref-help.md)
+    * [平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
     * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/ref-help.md)
     * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/noref-help.md)
     * [小RNA测序分析平台](workflow-on-bmkcloud/sran-help.md)
