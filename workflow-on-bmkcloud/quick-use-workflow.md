@@ -39,7 +39,7 @@
     在`我的项目-极速体验项目`中生成该报告之后，点击`报告名称`可以查看报告，并体验个性化分析功能，如果还没生成，请品尝一杯咖啡之后您再来刷新此页面，应该可以看到多出的一份报告。
     > ![warn](https://img.biocloud.net/docs/basic_img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
 
-   ![jisu_project](https://img.biocloud.net/docs/quick-use-workflow/jisu_project.png)
+    ![jisu_project](https://img.biocloud.net/docs/quick-use-workflow/jisu_project.png)
 6. 查看报告
 
     点击`报告名称`可以打开分析报告，详细了解该分析平台包含的分析内容；如果使用的是已发表文章中的数据，报告右上角会有`文献解读`按钮，可以对该报告来源的文章进行阅读；点击`数据来源`可以跳转到该报告对应的原始测序数据页面，如果您购买了[云平台套餐](get-started/account-settings.md)，则可以将原始数据保存到自己账号下然后进行分析；`结题报告下载`支持下载本地版网页报告、PDF报告和原始结果文件。
