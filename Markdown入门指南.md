@@ -33,7 +33,7 @@
 
 下面是插入**本地图片**和**网络图片**的例子：
 
-![Earth](media/14883361504081/earth.jpg)
+![Earth](basic_img/info-circle.png)
 
 ![Logo](http://www.biocloud.net/wp-content/uploads/2017/01/logo_big.png)
 
