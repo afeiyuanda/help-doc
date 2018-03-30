@@ -83,7 +83,7 @@ sub say_hello {
 
 ### 目录
 
-[TOC ]
+[TOC]
 
 ### 行内格式
 
