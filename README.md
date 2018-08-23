@@ -11,7 +11,8 @@
 1. 图片上用圈1、圈2 等表示步骤，可以在数字旁边用文字简要说明步骤内容；
 2. 用红色方框标出需要强调的部分；
 3. 尽量不使用箭头，即使使用，不要满屏都是箭头
-4. 图片可以和文档放在一起，文档中用相对路径引入图片即可，如：![fasta](./file-format-intro/fasta.png)
+4. 图片可以和文档放在一起，文档中用相对路径引入图片即可，如：```![fasta](./file-format-intro/fasta.png)```
+
 ~~4. 图片素材放到图片服务器，一个文档中的图片放到一个文件夹中，目录结构和文档目录结构保持一致~~
 ~~使用[filezilla](http://sw.bos.baidu.com/sw-search-sp/software/090246a8f0734/FileZilla_3.24.0.0_win64-setup.exe)等ftp软件~~
 
@@ -46,11 +47,7 @@
 
 重要信息提示：
 
-> ![info](https://img.biocloud.net/docs/basic_img/info-circle.png) 由于报告已经提前生成，所以修改参数实际不会影响报告的内容
-    
-警告性提示：
-
-> ![warn](https://img.biocloud.net/docs/basic_img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交    
+> ![warn](./basic_img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
 
 ### 参考文档
 * [Markdown入门指南](http://note.youdao.com/group/#/70235902/(folder/185150327//full:md/185150531)?full=true)
