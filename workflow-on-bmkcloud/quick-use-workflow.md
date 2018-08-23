@@ -3,15 +3,18 @@
 
 目前支持极速体验的分析平台包括：
 #### 农学分析平台
-* [真核生物有参考基因组的转录组分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
-* [真核生物无参考基因组的转录组分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
-* [小RNA测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
-* [长链非编码RNA测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
-* [微生物多样性分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
+* [真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
+* [真核生物无参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7131d30a9f)
+* [小RNA测序分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda728ed70aa9)
+* [长链非编码RNA测序分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda734dd30aad)
+* [微生物多样性分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda746c8f0ac1)
+* [蛋白质组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a8300b2643577f3016439ffb79b0169)
+* [代谢组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a8300b2643577f301643a00c88f016e)
 
 #### 医学分析平台
-* [医学有参考基因组的转录组分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
-* [外显子组测序分析平台](https://lb-console-dev.bmk.local/static/index.html#/iframe/https:%2F%2Fdeveloper-platform-dev.bmk.local%2F%23%2FRNARef%2FbasicAnalysis%3F_)
+* [医学有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/medical/detail/8a8300b85373df4b015373f16e1a0037)
+* [医学小RNA测序分析平台](https://international.biocloud.net/zh/software/medical/detail/8a8300b853639d27015363a1766f002c)
+* [外显子组测序分析平台](https://international.biocloud.net/zh/software/medical/detail/8a817f674fd9e535014fda73caae0ab3)
 
 ### 开始极速体验
 1. 账号注册及登录
