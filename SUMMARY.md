@@ -6,7 +6,7 @@
     * [账号等级](get-started/payments.md)
     * [快速帮助](get-started/online-help.md)
     * [快速体验](get-started/quick-start.md)
-* [网站功能概览](website-map.md)
+* [基础功能介绍](website-map.md)
     * [总览页](website-map/overview-page.md)
     * [项目管理](website-map/project-manage.md)
         * [进展](website-map/project-progress.md)

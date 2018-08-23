@@ -37,12 +37,12 @@
    
     ![change_parameter](./quick-use-workflow/change_parameter.png)
     
-    > ![info](../basic_img/warning.png)由于报告已经提前生成，所以修改参数实际不会影响报告的内容
+    > ![warn](../basic-img/warning.png)由于报告已经提前生成，所以修改参数实际不会影响报告的内容
 5. 查看项目
 
     在`我的项目-极速体验项目`中生成该报告之后，点击`报告名称`可以查看报告，并体验个性化分析功能，如果还没生成，请品尝一杯咖啡之后您再来刷新此页面，应该可以看到多出的一份报告。
     
-    > ![warn](https://img.biocloud.net/docs/basic_img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
+    > ![warn](../basic-img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
 
     ![jisu_project](./quick-use-workflow/jisu_project.png)
 6. 查看报告
@@ -62,4 +62,4 @@
     图片交互页面，可以点击柱子筛选出对应的基因列表：
     ![interactive_img](./quick-use-workflow/interactive_img.png)
 
-OK，接下来的时间交给您，您可以随意体验所有功能，遇到问题可以随时联系`在线客服`，点击页面右下角的![online_surport](https://img.biocloud.net/docs/basic_img/online_surport.png) 即可。
+OK，接下来的时间交给您，您可以随意体验所有功能，遇到问题可以随时联系`在线客服`，点击页面右下角的![online_surport](../basic-img/online_surport.png) 即可。
