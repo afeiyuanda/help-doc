@@ -17,13 +17,13 @@ The intent of this document is to state the conditions under which a Package may
 
 4. You may distribute the programs of this Package in object code or executable form, provided that you do at least ONE of the following:
 
-    4.1. distribute a Standard Version of the executables and library files, together with instructions (in the manual page or equivalent) on where to get the Standard Version.
+    a. distribute a Standard Version of the executables and library files, together with instructions (in the manual page or equivalent) on where to get the Standard Version.
 
-    4.1. accompany the distribution with the machine-readable source of the Package with your modifications.
+    b. accompany the distribution with the machine-readable source of the Package with your modifications.
 
-    4.1. accompany any non-standard executables with their corresponding Standard Version executables, giving the non-standard executables non-standard names, and clearly documenting the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.
+    c. accompany any non-standard executables with their corresponding Standard Version executables, giving the non-standard executables non-standard names, and clearly documenting the differences in manual pages (or equivalent), together with instructions on where to get the Standard Version.
 
-    4.1. make other distribution arrangements with the Copyright Holder.
+    d. make other distribution arrangements with the Copyright Holder.
 
 5. You may charge a reasonable copying fee for any distribution of this Package. You may charge any fee you choose for support of this Package. You may not charge a fee for this Package itself. However, you may distribute this Package in aggregate with other (possibly commercial) programs as part of a larger (possibly commercial) software distribution provided that you do not advertise this Package as a product of your own.
 

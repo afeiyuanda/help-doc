@@ -43,6 +43,6 @@
     * [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)
     * [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
 * [个性化分析方案](personal-analyse.md)
-* [名词解释](GLOSSARY.md)
+* [名词解释](word-explanation.md)
 * [版权说明](software-copyright.md)
 
