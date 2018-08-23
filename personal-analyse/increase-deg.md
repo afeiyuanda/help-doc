@@ -3,14 +3,14 @@
 差异基因Differential Gene，是指一个基因在RNA水平处在不同环境压力、时间、空间等方面下，表达有显著性差异的基因。在不同因素下基因突变或者甲基化等结构发生改变导致差异的基因。
 
 筛选差异基因是用统计学的方法对高通量的基因数据进行筛选，挑出样本间有显著性差异的基因。
+
 ### 具体需求描述
-1. 我想看一下变化趋势相同的基因，该如何操作？   
-2. 我想看一下哪些基因与我关注的基因共表达？
-3. 我想看一下与某条途径的基因变化一致的基因有哪些？
+1. 差异基因有些少，能否由办法解决？
+2. 项目分析时漏掉了一些分组，我想再添加一些，如何进行弥补？
 
 ### 分析方法说明
-1. 挖掘功能基因，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
-2. kmeans表达量聚类分析，分析工具：[kmeans趋势分析](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25673213c01567334706d0001)
+1. 差异基因筛选
+2. 差异基因功能筛选富集，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
 
 ### 分析流程图
 无
