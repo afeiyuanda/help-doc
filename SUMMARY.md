@@ -1,4 +1,4 @@
-# Summary
+# 帮助中心
 
 * [平台介绍](introduction.md)
 * [入门指南](get-started.md)
@@ -6,9 +6,10 @@
     * [账号等级](get-started/payments.md)
     * [快速帮助](get-started/online-help.md)
     * [快速体验](get-started/quick-start.md)
-* [网站导航](website-map.md)
+* [网站功能概览](website-map.md)
     * [总览页](website-map/overview-page.md)
     * [项目管理](website-map/project-manage.md)
+        * [进展](website-map/project-progress.md)
         * [任务](website-map/task-manage.md)
         * [数据](website-map/data-manage.md)
         * [样品](website-map/sample-manage.md)
@@ -44,5 +45,6 @@
     * [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
 * [个性化分析方案](personal-analyse.md)
 * [名词解释](word-explanation.md)
+* [常见数据格式说明](file-format-intro.md)
 * [版权说明](software-copyright.md)
 
