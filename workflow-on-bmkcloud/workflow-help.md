@@ -56,4 +56,6 @@
 
 ![5生成报告](./workflow-help/5生成报告.png)
 
+[基本分析演示视频](https://img.biocloud.net/docs/workflow-on-bmkcloud/基本分析201806.mp4)
+
 ### 灵活多样的个性化功能，助力二次数据挖掘
