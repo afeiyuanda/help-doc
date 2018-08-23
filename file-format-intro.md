@@ -1,6 +1,6 @@
 # 常见数据格式说明
 
-数据格式：FASTA
+**数据格式：FASTA**
 
 常用扩展名：fasta、fna、fa
 
@@ -12,7 +12,7 @@
 
 ![fasta](./file-format-intro/fasta.png)
 ------
-数据格式：FASTQ
+==数据格式：FASTQ==
 
 常用扩展名：fastq、fq
 
