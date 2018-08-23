@@ -47,7 +47,7 @@
 
 重要信息提示：
 
-> ![warn](./basic_img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
+> ![warn](./basic-img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
 
 ### 参考文档
 * [Markdown入门指南](http://note.youdao.com/group/#/70235902/(folder/185150327//full:md/185150531)?full=true)

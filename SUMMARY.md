@@ -19,7 +19,7 @@
     * [赚取云豆](website-map/bean.md)
 * [分析平台使用](workflow-on-bmkcloud.md)
     * [分析平台入门引导](workflow-on-bmkcloud/workflow-help.md)
-    * [平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
+    * [分析平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
     * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/ref-help.md)
     * [真核生物无参考基因组的转录组分析平台](workflow-on-bmkcloud/noref-help.md)
     * [微生物多样性分析平台](workflow-on-bmkcloud/microbial-diversity-help.md)
