@@ -11,15 +11,16 @@
 1. 图片上用圈1、圈2 等表示步骤，可以在数字旁边用文字简要说明步骤内容；
 2. 用红色方框标出需要强调的部分；
 3. 尽量不使用箭头，即使使用，不要满屏都是箭头
-4. 图片素材放到图片服务器，一个文档中的图片放到一个文件夹中，目录结构和文档目录结构保持一致
-使用[filezilla](http://sw.bos.baidu.com/sw-search-sp/software/090246a8f0734/FileZilla_3.24.0.0_win64-setup.exe)等ftp软件
+4. 图片可以和文档放在一起，文档中用相对路径引入图片即可，如：![fasta](./file-format-intro/fasta.png)
+~~4. 图片素材放到图片服务器，一个文档中的图片放到一个文件夹中，目录结构和文档目录结构保持一致~~
+~~使用[filezilla](http://sw.bos.baidu.com/sw-search-sp/software/090246a8f0734/FileZilla_3.24.0.0_win64-setup.exe)等ftp软件~~
 
-* 登录sftp://10.3.128.98
-* 账号：img_docs
-* 密码：123.img_docs
-* 上传路径：/share/SYSTEM_biocloud/static.biocloud.net/img/docs/
-* 使用时图片的url：https://img.biocloud.net/docs/picname
-* 例如上传了一张test.png，则图片url为：https://img.biocloud.net/docs/test.png
+~~* 登录sftp://10.3.128.98~~
+~~* 账号：img_docs~~
+~~* 密码：123.img_docs~~
+~~* 上传路径：/share/SYSTEM_biocloud/static.biocloud.net/img/docs/~~
+~~* 使用时图片的url：https://img.biocloud.net/docs/picname~~
+~~* 例如上传了一张test.png，则图片url为：https://img.biocloud.net/docs/test.png~~
 
 ### 格式规范
 
@@ -55,4 +56,4 @@
 * [Markdown入门指南](http://note.youdao.com/group/#/70235902/(folder/185150327//full:md/185150531)?full=true)
 * [极速体验文档](http://note.youdao.com/group/#/70235902/(folder/185150553//full:md/185204644)?full=true)
 
-文档编写统一使用`有道云笔记`中的`云协作`进行
+~~文档编写统一使用`有道云笔记`中的`云协作`进行~~

@@ -12,7 +12,7 @@
 
 ![fasta](./file-format-intro/fasta.png)
 ------
-==数据格式：FASTQ==
+**数据格式：FASTQ**
 
 常用扩展名：fastq、fq
 
