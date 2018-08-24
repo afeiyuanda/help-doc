@@ -1,6 +1,6 @@
 # 帮助中心
 
-* [平台介绍](introduction.md)
+* [百迈客云平台介绍](introduction.md)
 * [入门指南](get-started.md)
     * [账号设置](get-started/account-settings.md)
     * [账号等级](get-started/payments.md)
