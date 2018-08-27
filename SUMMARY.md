@@ -1,10 +1,11 @@
-# Summary
+# 帮助中心
 
 * [百迈客云平台介绍](introduction.md)
 * [入门指南](get-started.md)
     * [账号设置](get-started/account-settings.md)
     * [账号等级](get-started/payments.md)
     * [快速帮助](get-started/online-help.md)
+[^_^]:
     * [快速体验](get-started/quick-start.md)
 * [基础功能介绍](website-map.md)
     * [总览页](website-map/overview-page.md)
@@ -47,4 +48,3 @@
 * [名词解释](word-explanation.md)
 * [常见数据格式说明](file-format-intro.md)
 * [版权说明](software-copyright.md)
-
