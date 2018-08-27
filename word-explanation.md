@@ -5,7 +5,7 @@
 |Raw Data|原始数据||一次测序产生的没有经过任何过滤的全部原始数据。|
 |Q20|||碱基测序质量值，Q20代表测序准确度在99%。|
 |Q30|||碱基测序质量值，Q30代表测序准确度在99.9%。|
-|Sequencing by Synthesis|SBS|边合成边测序||第二代测序技术的核心思想是边合成边测序，即通过捕捉新合成的末端的标记来确定DNA的序列。|
+|Sequencing by Synthesis, SBS|边合成边测序||第二代测序技术的核心思想是边合成边测序，即通过捕捉新合成的末端的标记来确定DNA的序列。|
 |Reads|读长||高通量测序仪产生的一小段测序片段。|
 |Quality Score|碱基质量值||是碱基识别（Base Calling）出错的概率的整数映射。碱基质量值越高表明碱基识别越可靠，碱基测错的可能性越小。|
 ||碱基互补配对原则||在DNA或某些双链RNA分子结构中，由于碱基之间的氢键具有固定的数目和DNA两条链之间的距离保持不变，使得碱基配对必须遵守一定的规律，这就是Adenine与Thymine，在RNA中与Uracil配对，Guanine与Cytosine配对，反之亦然。碱基间的这种一一对应的关系叫做碱基互补配对原则。|
@@ -31,8 +31,8 @@
 |miRNA|小RNA||MicroRNA (miRNA) 是一类内生的、长度约为20-24个核苷酸的小RNA，其在细胞内具有多种重要的调节作用，参与转录后基因表达调控。每个miRNA可以有多个靶基因，而几个miRNA也可以调节同一个基因。|
 |simple-DNA|单拷贝蛋白序列||在单倍体基因组中只出现一次，因而复性速度很慢。|
 |4DTV|四倍简并位点||密码子的第三位碱基无论转换为哪种核苷酸，该密码子都编码同一种氨基酸的位点。|
-|nonsynonymous mutation|Ka|非同义突变||会导致氨基酸改变的核苷酸变异|
-|synonymous mutation|Ks|同义突变||不导致氨基酸改变的核苷酸变异|
+|nonsynonymous mutation, Ka|非同义突变||会导致氨基酸改变的核苷酸变异|
+|synonymous mutation, Ks|同义突变||不导致氨基酸改变的核苷酸变异|
 |secreted protein|分泌蛋白||是指在细胞内合成后，分泌到细胞外起作用的蛋白质。例如：唾液淀粉酶，胃蛋白酶，消化酶，抗体和一部分激素。|
 |signal peptide|信号肽||是引导新合成的蛋白质向分泌通路转移的短（长度5-30个氨基酸）肽链。|
 |Secondary metabolism|次级代谢产物||指生物生长到一定阶段后通过次级代谢合成的分子结构十分复杂、对该生物无明显生理功能，或并非是该生物生长和繁殖所必需的小分子物质，如抗生素、毒素、激素、色素等。|
@@ -50,7 +50,7 @@
 |Transposase|转座酶||执行转座功能的酶，通常由转座子编码，识别转座子两端的特异序列，能把转座子从相邻序列中脱离出来，再插入到新的DNA靶位点，无同源性要求。|
 |segmental duplication|基因组复制|A region of genomic DNA ranging from 1 to 400kb that may be found at more than one site in the genome. Segmental duplications often share &gt;90% sequence identity.||
 |SVG|可伸缩向量图形||可缩放矢量图形是基于可扩展标记语言（标准通用标记语言的子集），用于描述二维矢量图形的一种图形格式|
-|ChIP-Seq|Chromatin Immunoprecipitation|染色质免疫沉淀|A technique involving size selection, high throughput sequencing (typically using next generation sequencing technologies that produce millions of reads in a run) and mapping of ChIP purified DNA onto a reference genome to achieve genome-wide identification of protein-DNA interactions.|是一种适用于研究蛋白质与生物体细胞中 DNA 相互作用的经典方法，将 ChIP 与第二代测序技术相结合的 ChIP-Seq 技术，能够高效地在全基因组范围内检测与组蛋白、转录因子等互作的 DNA 区段，研究体内转录因子和靶基因启动子区域直接相互作用的方法，对于调控蛋白在基因组上的结合靶点筛选、差异化表观遗传变异的原理揭示提供了重要的解决思路。|
+|ChIP-Seq, Chromatin Immunoprecipitation|染色质免疫沉淀|A technique involving size selection, high throughput sequencing (typically using next generation sequencing technologies that produce millions of reads in a run) and mapping of ChIP purified DNA onto a reference genome to achieve genome-wide identification of protein-DNA interactions.|是一种适用于研究蛋白质与生物体细胞中 DNA 相互作用的经典方法，将 ChIP 与第二代测序技术相结合的 ChIP-Seq 技术，能够高效地在全基因组范围内检测与组蛋白、转录因子等互作的 DNA 区段，研究体内转录因子和靶基因启动子区域直接相互作用的方法，对于调控蛋白在基因组上的结合靶点筛选、差异化表观遗传变异的原理揭示提供了重要的解决思路。|
 |Linkage Mapping|遗传图|连锁分析|This type of mapping measures meiotic recombination using polymorphic markers to produce the relative order of markers with respect to each other. Distance between markers is measured in centiMorgans (cM). A centiMorgan is equivalent to a 1% cross-over rate.||
 |EST Expressed sequence tag|表达序列标签|These are single-pass sequences of cDNA clones. Databases of EST sequences are highly redundant but quite useful for gene identification. There are many efforts to cluster EST sequences to remove the redundancy and low-quality sequences.|是从一个随机选择的cDNA 克隆，进行5’端和3’端单一次测序挑选出来获得的短的cDNA 部分序列。|
 |Phenotype|表型|An observable characteristic displayed by an organism. These characteristics can be controlled by genes, by the environment, or a combination of both. The characteristic can be directly observable, such as having brown eyes. In some cases, the phenotype will be measurable, such as having high blood pressure.|指个体形态、功能等各方面的表现，如身高、肤色、血型、酶活力、药物耐受力乃至性格等等。 就是说个体外表行为表现和具有的行为模式。|
@@ -66,16 +66,16 @@
 |degeneracy|密码子的简并||指同一种氨基酸具有两个或者更多个密码子的现象|
 |SNP|单核苷酸多态性|Single Nucleotide Polymorphism. A single base difference found when comparing the same DNA sequence from two different individuals.|主要是指在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性。|
 |InDel|插入缺失||指的是两种亲本中在全基因组中的差异，相对另一个亲本而言，其中一个亲本的基因组中有一定数量的核苷酸插入或缺失，根据基因组中插入缺失位点，设计一些扩增这些插入缺失位点的PCR 引物。|
-|CNV|copy number variation|拷贝数变异|Large-scale structural changes in DNA that vary from individual to individual. These include insertions, deletions, duplications and complex multi-site variants that range from kilobases to megabases in size.|指在人类基因组中广泛存在的，从1000bp(碱基对)到数百万bp范围内的缺失、插入、重复和复杂多位点的变异。|
+|CNV, copy number variation|拷贝数变异|Large-scale structural changes in DNA that vary from individual to individual. These include insertions, deletions, duplications and complex multi-site variants that range from kilobases to megabases in size.|指在人类基因组中广泛存在的，从1000bp(碱基对)到数百万bp范围内的缺失、插入、重复和复杂多位点的变异。|
 |allele frequency|等位基因频率||是群体遗传学的术语，用来显示一个种群中基因的多样性，或者说是基因库的丰富程度。|
 |QTL quantitative trait locus|数量性状基因座||指的是控制数量性状的基因在基因组中的位置。|
 |inkage disequilibrium|连锁不平衡（LD）||在某一群体中，不同座位上某两个基因同时遗传的频率明显高于预期的随机频率的现象|
 |Chromosomal rearrangement|染色体重排|These are events that are mediated by double-strand breaks and subsequent repair occurring in the genome. When these breaks are repaired the location of landmarks in the genome have often changed or have been removed completely.||
 |SLAF-seq|简化基因组测序|Specific-Locus Amplified Fragment Sequencing|是特异位点扩增片段测序，是基于酶切的简化基因组测序技术，通过对酶切获得的SLAF tag进行高通量测序，大幅降低基因组的复杂度，操作简便，同时不受参考基因组的限制，可快速鉴定出高密度的SNP位点，性价比高、稳定性好。该技术可用 来研究群体进化、遗传图谱构建及QTL定位以及目标性状关联分析。|
-|GWAS|Genome-wide association study|全基因组关联分析||通过重测序对动植物重要种质资源进行全基因组基因型鉴定，与关注的表型数据进行全基因组关联分析，找出与关注表型相关的SNP位点，定位数量性状基因，与数量性状相关的基因紧密连锁的SNP标记，后续可用于分子标记辅助育种，助力育种进程。|
+|GWAS, Genome-wide association study|全基因组关联分析||通过重测序对动植物重要种质资源进行全基因组基因型鉴定，与关注的表型数据进行全基因组关联分析，找出与关注表型相关的SNP位点，定位数量性状基因，与数量性状相关的基因紧密连锁的SNP标记，后续可用于分子标记辅助育种，助力育种进程。|
 |Microbime diversity|微生物多样性测序||环境微生物多样性分析是直接从样品中提取基因组 DNA 后进行测序分析。它是通过对环境中微生物 16S/18S/ITS rDNA高变区 的 PCR扩增产物进行高通量测序，分析该环境下微生物群落的多样性和分布规律，对于我们研究微生物与环境的关系，环境治理和微生物资源的利用有着重要的理论和现实意义。|
 |Metagenome|宏基因组||是由 Handelsman 等 1998 年提出的新名词, 其定义为 the genomes of the total microbiota found in nature, 即生境中全部微小生物遗传物质的总和。它包含了可培养的和未可培养的微生物的基因组，目前主要指环境样品中的细菌和真菌的基因组总和。|
-|Super BSA|Super bulk segregant analysis|超级混池分离分析法||是快速有效地寻找与目的基因紧密连锁分子标记的经典方法，广泛应用于作物育种。将简化基因组测序SLAF-seq与传统BSA相结合的Super BSA，能更快速、准确、精细定位目标性状，具有混池规模大、标记密度高、数字化定量统计基因型频率等诸多优点。|
+|Super BSA, Super bulk segregant analysis|超级混池分离分析法||是快速有效地寻找与目的基因紧密连锁分子标记的经典方法，广泛应用于作物育种。将简化基因组测序SLAF-seq与传统BSA相结合的Super BSA，能更快速、准确、精细定位目标性状，具有混池规模大、标记密度高、数字化定量统计基因型频率等诸多优点。|
 |domestication|驯化||是指外来植物通过改变其遗传性状以适应新环境的过程，如将动物从野生状态改变为家养或栽培的过程就称为驯化。|
 |evolution|进化||是指一些生命形态发生、发展的演变过程。|
 |Association Region|关联区域||通过关联分析分析得到的与目标性状相关联的区域|
@@ -90,8 +90,8 @@
 |intergenic region|基因间区||指基因与基因之间的间隔序列，不属于基因结构，不直接决定氨基酸，可能通过转录后调控影响性状的区域。|
 |split gene|断裂基因||真核生物结构基因，由若干个编码序列和非编码序列互补间隔开但又连续镶嵌而成，去除非编码序列再连接后，可翻译出由连续氨基酸组成的完整蛋白质，这些基因称为断裂基因。|
 |RNA editing|RNA编辑||是指在mRNA水平上改变遗传信息的过程。具体来说，指基因转录产生的mRNA分子中，由于核苷酸的缺失，插入或置换，基因转录物的序列不与编码序列互补，使翻译生成的蛋白质的氨基酸组成，不同于基因序列中的编码信息现象。|
-|RPKM|Reads Per Kilobase Million|||将map到基因的read数除以map到genome的所有read数(以million为单位)与RNA的长度(以KB为单位)。|
-|FPKM|Fragments Per Kilobase Million|||将map到基因的fragment数除以map到genome的所有fragment数(以million为单位)与RNA的长度(以KB为单位)。|
+|RPKM, Reads Per Kilobase Million|||将map到基因的read数除以map到genome的所有read数(以million为单位)与RNA的长度(以KB为单位)。|
+|FPKM, Fragments Per Kilobase Million|||将map到基因的fragment数除以map到genome的所有fragment数(以million为单位)与RNA的长度(以KB为单位)。|
 |up regulation|上调||调控结果使基因表达水平提高的称为正向调控，即上调。|
 |Down regulation|下调||调控结果使基因表达水平降低的称为负向调控，即下调。|
 |differential expression gene|差异表达基因||指在两个不同条件（如对照与处理、野生型和突变型、不同时间点、不同组织等）下，表达水平存在显著差异的基因，称之为差异表达基因。|
@@ -133,7 +133,7 @@
 |NR|||NR是NCBI官方的蛋白序列数据库，它包括了 GenBank基因的蛋白编码序列，PDB(Protein Data Bank)蛋白数据库、SwissProt蛋白序列及来自PIR（Protein Information Resource）和PRF（Protein Research Foundation）等数据库的蛋白序列。根据 nr注释信息我们能得到 GO 功能注释。|
 |Swiss-Prot|||搜集、整理、分析、注释、发布，力图提供高质量的蛋白质序列和注释信息。SwissProt数据库的每个条目都有详细的注释，包括结构域、功能位点、跨膜区域、二硫键位置、翻译后修饰、突变体等。该数据库中还包括了与核酸序列数据库EMBL/GenBank/DDBJ、蛋白质结构数据库PDB以及Prosite、PRINTTS等十多个二次数据库的交叉引用代码。|
 |GO|||基因本体联合会（Gene Ontology Consortium）所建立的数据库，旨在建立一个适用于各种物种的，堆积因何蛋白质功能进行限定和描述的，并能随着研究不断深入而更新的语言词汇标准。GO 是多种生物本体语言中的一种，提供了三层结构（分子功能、生物学途径、细胞组件）的系统定义方式，用于描述基因产物的功能。|
-|COG|KOG|||COG是Clusters of Orthologous Groups of proteins的简称，KOG 为euKaryotic Ortholog Groups。这两个注释系统都是NCBI中基于基因直系同源关系的数据库，其中COG针对原核生物，KOG针对真核生物。COG/KOG结合进化关系将来自不同物种的同源基因分为不同的 Ortholog簇，目前COG有4873个分类，KOG有4852个分类。来自同一 ortholog 的基因具有相同的功能，这样就可以将功能注释直接继承给同一 COG/KOG 簇的其他成员。详见http://www.ncbi.nlm.nih.gov/COG/。|
+|COG, KOG|||COG是Clusters of Orthologous Groups of proteins的简称，KOG 为euKaryotic Ortholog Groups。这两个注释系统都是NCBI中基于基因直系同源关系的数据库，其中COG针对原核生物，KOG针对真核生物。COG/KOG结合进化关系将来自不同物种的同源基因分为不同的 Ortholog簇，目前COG有4873个分类，KOG有4852个分类。来自同一 ortholog 的基因具有相同的功能，这样就可以将功能注释直接继承给同一 COG/KOG 簇的其他成员。详见http://www.ncbi.nlm.nih.gov/COG/。|
 |Pfam|||pfam数据库是一个蛋白质家族数据库，依赖于多序列比对和隐马尔科夫模型。|
 |KEGG|||是系统分析基因产物和化合物在细胞中的代谢途径以及这些基因产物的功能的数据库。它整合了基因组、化学分子和生化系统等方面的数据,包括代谢通路（KEGG PATHWAY）、药物（KEGG DRUG）、疾病（KEGG DISEASE）、功能模型（KEGG MODULE）、基因序列（KEGG GENES）及基因组（KEGG GENOME）等等。KO（KEGG ORTHOLOG）系统将各个KEGG注释系统联系在一起，KEGG已建立了一套完整KO注释的系统，可完成新测序物种的基因组或转录组的功能注释。详见http://www.genome.jp/kegg/。|
 |KOBAS|||一个提供注释和识别富集通路和疾病的网站。|
@@ -143,9 +143,9 @@
 |SnpEff|||一款用于注释变异（SNP、InDel）和预测变异影响的软件。根据变异位点在参考基因组上的位置以及参考基因组上的基因位置信息，可以得到变异位点在基因组发生的区域（基因间区、基因区或CDS区等），以及变异产生的影响（同义非同义突变等）。|
 |topGO|||基因本体得分构架，是一款基于分析基因表达数据来计算生物学意义的软件包。它实现了从微矩阵来确定基因本体组的相关性的各种标准和先进的新算法。|
 |PDB|||蛋白质数据库，主要由X-射线晶体衍射和核磁共振（NMR）测得的生物大分子三维结构组成，用户可直接查询，调用和观察库中所收录的任何大分子三维结构。|
-|small RNA|sRNA|||对长度在18-40bp的短 RNA 进行序列、结构、表达、功能上的分析，主要进行miRNA，siRNA，piRNA 几种类型 sRNA 的分析，可与 mRNA 关联分析。|
-|ncRNA|non coding RNA|||非编码RNA，指不编码蛋白质的RNA。其中包括 rRNA，tRNA，snRNA，snoRNA和microRNA 等多种已知功能的 RNA，及未知功能的 RNA。其共同特点是都能从基因组上转录而来，不需要翻译成蛋白即可在 RNA 水平上行使各自的生物学功能。|
-|lncRNA|long  non coding RNA|||长链非编码RNA，在长度200-100000nt之间，不具有编码蛋白功能的转录本。|
+|small RNA, sRNA|||对长度在18-40bp的短 RNA 进行序列、结构、表达、功能上的分析，主要进行miRNA，siRNA，piRNA 几种类型 sRNA 的分析，可与 mRNA 关联分析。|
+|ncRNA, non coding RNA|||非编码RNA，指不编码蛋白质的RNA。其中包括 rRNA，tRNA，snRNA，snoRNA和microRNA 等多种已知功能的 RNA，及未知功能的 RNA。其共同特点是都能从基因组上转录而来，不需要翻译成蛋白即可在 RNA 水平上行使各自的生物学功能。|
+|lncRNA, long  non coding RNA|||长链非编码RNA，在长度200-100000nt之间，不具有编码蛋白功能的转录本。|
 ||PCR 产物测序||针对 DNA PCR 扩增产物进行序列检测或拼接，提供序列信息及相应分子标记结果，有助于多样性分类或其他 DNA 片段研究。|
 ||光学图谱||来源于单个DNA分子有序的全基因组限制性内切酶酶切位点图谱|
 ||单碱基的错误率||组装错误的碱基占基因组全长的比例。|
@@ -170,11 +170,11 @@
 |Internal transcribed spacer 2|ITS2||指真核生物核糖体RNA对应的编码DNA区域的转录间隔区序列，位于真核生物核糖体rDNA序列5.8S和28S之间。由于ITS2区在核糖体RNA加工过程中被剪切掉，不发挥功能，在进化过程中选择压力较小，进化速率约为18S rDNA的10倍，属于中度保守的区域，利用它可研究种及种以下的分类阶元。|
 |Chimeric DNA sequences|嵌合体||指微生物多样性的样品在进行PCR时，多数序列都是由单条序列进行扩增的，如Read1扩增产生新的Read1，Read2扩增产生新的Read2。但有时两条序列也可能缠在一起，扩增时产生的新序列前半段可能属于Read1，后半段属于Read2，形成了拥有两条序列信息的嵌合体序列。这样的嵌合体序列在后续分析中会被错误地认为是新的物种，从而导致样品的物种多样性被高估，并影响样品间多样性的比较，必须在分析之前去除嵌合体。|
 |Operational taxonomic unit|OTU||即操作分类单元，是在系统发生学研究或群体遗传学研究中，为了便于进行分析，人为给某一个分类单元（品系，种，属，分组等）设置的同一标志。一般情况下，如果序列之间，相似性高于97% 就可以把它定义为一个OTU，每个OTU对应一种代表性的序列。|
-|alpha diversity|α-diversity|Alpha多样性||指某个取样环境中的物种的多样性，通过一些根据样品中物种的种类及丰度计算出的指数来反映，指数的大小反映单个样品中物种的多样性。|
+|alpha diversity, α-diversity|Alpha多样性||指某个取样环境中的物种的多样性，通过一些根据样品中物种的种类及丰度计算出的指数来反映，指数的大小反映单个样品中物种的多样性。|
 |rarefaction curve|稀释性曲线||指从样本中随机抽取一定数量的序列，统计这些序列所代表的物种数目，并以序列数与物种数来构建的曲线，用于验证测序数据量是否足以反映样品中的物种的多样性，并间接反映样品中物种的丰富程度。稀释性曲线可以判断各样本测序量是否充分,曲线一直急剧上升表明测序量不足，需要增加序列条数；如果曲线最终趋于平坦，则表明样品序列充分，可以进行数据分析。|
 |rank abundance curve|等级丰度曲线||指将各样品的OTU丰度按大小排序并基于其相对丰度绘制的曲线图，主要用于同时解释样品所含物种的丰富度和均匀度，物种的丰富度由曲线在横轴上的长度来反映，曲线越宽，表示物种的组成越丰富；物种组成的均匀度由曲线的形状来反映，曲线越平坦，表示物种组成的均匀程度越高。|
 |shannon index curve|香农指数曲线||指由各在不同测序深度时各样品的Shannon指数（反映样品中微生物多样性的指数）绘制的Shannon多样性指数稀释曲线，以此反映各样本在不同测序数量时的微生物多样性。当曲线趋向平坦时，说明测序数据量足够大，OTU种类不会再随测序量增加而增长；如果曲线没有趋于平坦，则表明不饱和，增加数据量可以发现更多OTU。|
-|beta diversity|β-diversity|Beta多样性||比较不同样品之间在物种多样性方面（群落组成及结构）存在的差异大小。|
+|beta diversity, β-diversity|Beta多样性||比较不同样品之间在物种多样性方面（群落组成及结构）存在的差异大小。|
 |principal component analysis|PCA||即主成分分析，是一种应用方差分解，对多维数据进行降维，从而提取出数据中最主要的元素和结构的方法。样品间距离越近，表示这两个样品的组成越相似。|
 |principal coordinates analysis|PCoA||一种与PCA类似的降维排序方法，原理是假设对N个样品有衡量它们之间差异或距离的数据，就可以用此方法找出一个直角坐标系，将N个样品表示成N个点，而使点间的欧式距离的平方正好等于原来的差异数据，实现定性数据的定量转换，从多维数据中提取出最主要的元素和结构。样品间距离越近，表示这两个样品的组成越相似。|
 |Non-MetricMulti-Dimensional Scaling|NMDS||一种适用于生态学研究的排序方法，主要是将多维空间的研究对象（样本或变量）简化到低维空间进行定位、分析和归类，同时又保留对象间原始关系的数据分析方法。样品间距离越近，表示这两个样品的组成越相似。NMDS设计的目的是为了克服以前排序方法（包括PCA、PCoA在内）使用线性模型的缺点。NMDS的模型是非线性的，能更好地反映生态学数据的非线性结构。|
@@ -190,7 +190,7 @@
 |Chi-square test|卡方检验||它属于非参数假设检验，主要是比较两个及两个以上样本率( 构成比）以及两个分类变量的关联性分析|
 ||偏分离||观察到的基因型比例偏离预期的孟德尔频率的分离方式|
 ||遗传距离||两个基因在同一染色体上的相对距离,通常用重组率表示|
-|Rqtl|RQTL|||R/qtl是在遗传群体中定位数量性状位点的一个可扩展的交互环境|
+|R/qtl|||R/qtl是在遗传群体中定位数量性状位点的一个可扩展的交互环境|
 |Permutation Test|PT检验||PT检验是Fisher于20世纪30年代提出的一种基于大量计算（computationally intensive），利用样本数据的全（或随机）排列，进行统计推断的方法|
 ||PCR引物设计||一小段单链DNA或RNA，在核酸合成反应时，作为每个多核苷酸链进行延伸的出发点而起作用的多核苷酸链|
 |Log of the likelihood ratio|LOD值||估计值在观察结果中出现这种概率的可能性，用来反映重组率估计值的可靠性程度或作为连锁是否真实存在的一种判断尺度|
@@ -206,5 +206,5 @@
 |Rfam|||非编码RNA数据库|
 |Repbase|||重复序列数据库|
 |miRbase|||已知miRNA数据库|
-|HMDD|Human microRNA Disease Database|||人类miRNA疾病数据库|
-|WGCNA|Weighted Correlation Network analysis|||是一个基于基因表达网络权重构建，描述基因表达的关联模式的R包。|
+|HMDD, Human microRNA Disease Database|||人类miRNA疾病数据库|
+|WGCNA, Weighted Correlation Network analysis|||是一个基于基因表达网络权重构建，描述基因表达的关联模式的R包。|
