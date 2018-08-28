@@ -13,9 +13,9 @@
 |:---|:--:|
 |[bowtie](http://bowtie-bio.sourceforge.net/index.shtml)|[show license](#bowtie)|
 |[bowtie2](http://bowtie-bio.sourceforge.net/index.shtml)|[show license](#bowtie)|
-|[BreakDancer](http://breakdancer.sourceforge.net/)|[show license](#BreakDancer)|
-|[BWA](http://bio-bwa.sourceforge.net/)|[show license](#BWA)|
-|[Circos](http://circos.ca/citations/)|[show license](#Circos)|
+|[BreakDancer](http://breakdancer.sourceforge.net/)|[show license](#breakdancer)|
+|[BWA](http://bio-bwa.sourceforge.net/)|[show license](#bwa)|
+|[Circos](http://circos.ca/citations/)|[show license](#circos)|
 |[cufflinks](http://cole-trapnell-lab.github.io/cufflinks/)|[show license](#cufflinks)|
 
 
