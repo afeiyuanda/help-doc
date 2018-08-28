@@ -11,7 +11,8 @@
     * [总览页](website-map/overview-page.md)
     * [项目管理](website-map/project-manage.md)
 [^_^]:
-<        * [进展](website-map/project-progress.md)
+<
+        * [进展](website-map/project-progress.md)
         * [任务](website-map/task-manage.md)
         * [数据](website-map/data-manage.md)
         * [样品](website-map/sample-manage.md)
