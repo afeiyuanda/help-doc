@@ -18,6 +18,7 @@
     * [数据库](website-map/database.md)
     * [云组](website-map/cloud-group.md)
     * [赚取云豆](website-map/bean.md)
+    * [快速体验](get-started/quick-start.md)
 * [分析平台使用](workflow-on-bmkcloud.md)
     * [分析平台入门引导](workflow-on-bmkcloud/workflow-help.md)
     * [分析平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
