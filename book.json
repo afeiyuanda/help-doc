@@ -3,7 +3,7 @@
     "description": "记录云平台使用的说明文档",
     "author": "liuw",
     "output.name": "site",
-    "gitbook": "3.2.2",
+    "gitbook": ">=3.2.2",
     "language": "zh-hans",
     "root": ".",
     "structure": {
@@ -31,7 +31,9 @@
         "local-video@^1.0.1",
         "anchor-navigation-ex@0.1.8",
         "favicon@^0.0.2",
-        "todo@^0.1.3"
+        "todo@^0.1.3",
+        "fancybox@^3.0.1",
+        "page-footer-ex@^0.1.2"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -67,6 +69,12 @@
         },
         "sectionx": {
             "tag": "b"
+        },
+        "page-footer-ex": {
+            "copyright": "© 2017 biocloud.net版权所有 京ICP备16057269号",
+            "markdown": false,
+            "update_label": "更新时间：",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
