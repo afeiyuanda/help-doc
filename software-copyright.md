@@ -60,13 +60,16 @@ The intent of this document is to state the conditions under which a Package may
 This license is approved by the Open Source Initiative (www.opensource.org) for certifying software as OSI Certified Open Source.
 
 ------
+
 #### BreakDancer
 Released under GPLv3
 
 ------
+
 #### BWA
 BWA is released under [GPLv3]. The latest source code is [freely available at github.
 
 ------
+
 #### Circos
 Circos is licensed under GPL
