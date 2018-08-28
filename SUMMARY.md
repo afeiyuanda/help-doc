@@ -14,7 +14,8 @@
 [^_^]:        * [进展](website-map/project-progress.md)
 [^_^]:        * [任务](website-map/task-manage.md)
 [^_^]:        * [数据](website-map/data-manage.md)
-[^_^]:        * [样品](website-map/sample-manage.md)
+[^_^]:
+        * [样品](website-map/sample-manage.md)
     * [分析](website-map/analyse.md)
     * [数据库](website-map/database.md)
     * [云组](website-map/cloud-group.md)
