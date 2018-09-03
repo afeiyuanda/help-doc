@@ -40,7 +40,7 @@
         "puml@^1.0.1",
         "graph@^0.1.0",
         "chart@^0.2.0",
-        "include-csv@^0.3.0"
+        "include-csv"
     ],
     "pluginsConfig": {
         "theme-default": {
