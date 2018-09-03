@@ -4,6 +4,10 @@
 
 > ![warn](../basic-img/warning.png)在此已默认您登陆百迈客云平台，否则请先[登录](https://international.biocloud.net/zh/user/login)，登陆和注册可以参考[账号设置](account-settings.md)。
 
+> **[warn]**
+>
+> 在此已默认您登陆百迈客云平台，否则请先[登录](https://international.biocloud.net/zh/user/login)，登陆和注册可以参考[账号设置](account-settings.md)。
+
 ### 创建项目
 
 在`我的项目`页面，点击`新建项目`，在弹出对话框中填写项目名称和项目描述，`项目名称`必须输入，且建议只输入中文、数字、字母、中横线、下划线、点等字符，不要输入空格等非常特殊的字符，点击`确定`按钮，新建的项目将显示在项目列表中。
