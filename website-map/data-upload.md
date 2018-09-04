@@ -23,10 +23,8 @@
 
 2. 登陆FTP客户端，如果没有安装，点击[FTP客户端下载](https://filezilla-project.org/download.php?type=client)，然后安装后使用，参考下图填写您专属的FTP账号和密码，**输入时千万不要在前后输入任何空格**，否则会导致不能登陆；
 
-![ftp-set-account](img/ftp-set-account.png)
-
-3. 参考下图，通过FTP将已经压缩好的文件上传到云平台集群，等待上传完成，注意观察下图④位置，确保数据全部上传成功之后，再上传一个finish文件，[点击下载到本地](img/finish)，切记要等待数据上传完成之后再上传finish文件，目的是告知系统我的文件已经传输完毕，可以进行后续操作；
+    ![ftp-set-account](img/ftp-set-account.png)
+3. 参考下图，通过FTP将已经压缩好的文件上传到云平台集群，等待上传完成，注意观察下图④位置，确保数据全部上传成功之后，再上传一个finish文件，[点击下载到本地](https://img.biocloud.net/docs/finish)，切记要等待数据上传完成之后再上传finish文件，目的是告知系统我的文件已经传输完毕，可以进行后续操作；
 
 ![ftp-upload-progress](img/ftp-upload-progress.png)
-
 4.
