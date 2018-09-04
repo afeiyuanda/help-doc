@@ -48,9 +48,13 @@
 2. 错误：
 
     响应:	220-This is a private system - No anonymous login
+    
     响应:	220-IPv6 connections are also welcome on this server.
+    
     响应:	220 You will be disconnected after 15 minutes of inactivity.
+    
     命令:	AUTH TLS
+    
     错误:	无法连接到服务器
     
     解决办法：通过站点管理器添加新站点，并修改FTP登陆时的一些高级参数，在FTP页面，点击`文件` -> `站点管理器`按照下图添加新的站点：
@@ -60,4 +64,9 @@
     设置成功后，点击`连接`，在弹框中输入密码，点击确定，完成连接：
     
     ![ftp-password-input](img/ftp-password-input.png)
-    
+
+### 联系客服后台上传
+
+1. 如果您的数据是在百迈客测序产出的，可以直接联系在线客服，由他们通过后台给您推送到您的云平台账号下。
+
+2. 如果您的数据是其他公司测序产出的，而且数据量比较大，FTP上传时间会比较长，那您可以将数据以邮寄硬盘的方式寄给在线客服，然后由他们拷贝到云平台集群后，再通过后台推送功能，推送给您。
