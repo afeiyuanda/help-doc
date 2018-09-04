@@ -47,10 +47,10 @@
 
 重要信息提示：
 
-> ![warn](./basic-img/warning.png)同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
+> **[warning]**
+>
+> 同一份极速体验报告生成之后不会再重复生成了，可先删除再重新提交
 
 ### 参考文档
-* [Markdown入门指南](http://note.youdao.com/group/#/70235902/(folder/185150327//full:md/185150531)?full=true)
-* [极速体验文档](http://note.youdao.com/group/#/70235902/(folder/185150553//full:md/185204644)?full=true)
-
-~~文档编写统一使用`有道云笔记`中的`云协作`进行~~
+* [Markdown入门指南](Markdown入门指南.md)
+* [极速体验文档](workflow-on-bmkcloud/quick-use-workflow.md)
