@@ -34,7 +34,7 @@
 
 ![rice-ref-genome](./img/rice-ref-genome.png)
 
-> **[warning]**
+> **[warning] 注意：**
 >
 > 如果您之前已经用某个版本的参考基因组进行了第一批数据的分析，为了保证第二批数据的分析结果和第一批分析结果有可比性，一定要选择相同版本的参考基因组；如果第二批数据您想用最新版的参考基因组来做分析，那第一批数据应该也用最新的参考基因组重新分析一遍。
 
@@ -68,7 +68,7 @@ FDR全称：false discovery rate，该阈值越低表示差异表达筛选越严
 2. 目前支持[蛋白序列同源分析工具](https://international.biocloud.net/zh/software/tools/detail/small/355)和[MEGA](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b8545083a10154518fa412147e)，点击之后会跳转到对应工具页面，并将检索出的基因的核苷酸序列作为输入文件自动填充到输入文件位置。
 3. 如果项目结果文件中存在这个文件`/个人数据/biomarker_project/项目结果目录/Needed_Data/PPI.txt`，点击`蛋白互作图`按钮后，等待几分钟可以绘制出如下互作图，支持修改分辨率和互作图展示方式，也可以下载绘制互作图的关系文件，供您自己进行重新绘图。
 
-    > **[warning]**
+    > **[warning] 注意：**
     >
     > 浏览器只支持绘制互作关系20000对以下的互作图，超过20000对之后您只能下载数据后自己在本地进行绘制
 

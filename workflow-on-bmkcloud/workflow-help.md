@@ -10,9 +10,11 @@
 
 ![成熟分析平台](./workflow-help/excellent_app.png)
 
-> ![warn](../basic-img/warning.png)分析平台列表页，logo上带有`极速体验`标签的分析平台支持使用示例数据快速获取一份分析报告，并进行个性化功能体验，可以参考[分析平台极速体验](quick-use-workflow.md)
+> **[info] 提示：**
 
-> ![warn](../basic-img/warning.png)分析平台显示`已购买`则可以进行自己数据的分析，显示为`未购买`则没有权限分析自己的数据，但仍可以进行`极速体验`
+> 分析平台列表页，logo上带有`极速体验`标签的分析平台支持使用示例数据快速获取一份分析报告，并进行个性化功能体验，可以参考[分析平台极速体验](quick-use-workflow.md)
+
+> 分析平台显示`已购买`则可以进行自己数据的分析，显示为`未购买`则没有权限分析自己的数据，但仍可以进行`极速体验`
 
 **2. 选择项目**
 
@@ -30,17 +32,19 @@
 
 如果平台上还没有您自己的数据，请参考[数据上传](../website-map/data-upload.md)先将您的数据传到云平台上。
 
-> **[warning]**
->
+> **[warning] 注意：**
+
 > 样品ID目前仅支持字母、数字、中横线，且必须以字母开头，长度不能超过9个字符。
 
 > `导入数据量`统计的是导入文件中包含的总碱基数，如果超过单次任务允许的上限，您可以通过工具：[按大小截取测序数据](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25beace85015bead6d9080041)批量将数据处理到符合要求的数据量。
 
 > 如果提示导入的数据没有`碱基数`这个属性，请点击页面右下角的`在线客服`头像，联系客服解决。
 
-> ![warn](../basic-img/warning.png)`导入数据量`统计的是导入文件中包含的总碱基数，如果超过单次任务允许的上限，您可以通过工具：[按大小截取测序数据](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25beace85015bead6d9080041)批量将数据处理到符合要求的数据量。
+> **[warning] 注意：**
 
-> ![warn](../basic-img/warning.png)如果提示导入的数据没有`碱基数`这个属性，请点击页面右下角的`在线客服`头像，联系客服解决。
+> `导入数据量`统计的是导入文件中包含的总碱基数，如果超过单次任务允许的上限，您可以通过工具：[按大小截取测序数据](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25beace85015bead6d9080041)批量将数据处理到符合要求的数据量。
+
+> 如果提示导入的数据没有`碱基数`这个属性，请点击页面右下角的`在线客服`头像，联系客服解决。
 
 ![数据导入](./workflow-help/1数据导入.png)
 
