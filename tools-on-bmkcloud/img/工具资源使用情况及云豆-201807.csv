@@ -1,112 +1,112 @@
-¹¤¾ßÖĞÎÄÃû                                          ,¹¤¾ßÓ¢ÎÄÃû,·ÖÀà,ÏûºÄÔÆ¶¹
- FLASH                                                               ,FLASH,×é×°,160
- AbyssÖĞĞ¡»ùÒò×é×é×°                                                 ,Assemble_by_Abyss,×é×°,-
- FASTAĞòÁĞ×ª»»³Ésqn                                                  ,tbl2asn,ÖÊ¿Ø,10
- È¥³ıreadÁ½¶ËµÍÖÊÁ¿¼î»ù                                              ,fastq_trim,ÖÊ¿Ø,40
- FastQC                                                              ,FastQC,ÖÊ¿Ø,80
- ¹ıÂËÈßÓàreads¹¤¾ß                                                   ,fastq_filter_by_duplication,ÖÊ¿Ø,100
- ¹ıÂËfastq½ÓÍ·ĞòÁĞ                                                   ,fastq_filter_by_adapter,ÖÊ¿Ø,120
- ¹ıÂËrRNAĞòÁĞ                                                        ,fastq_filter_by_rRNA,ÖÊ¿Ø,120
- Ô­Ê¼Êı¾İÎÛÈ¾³Ì¶ÈÔ¤¹À¹¤¾ß                                            ,NT_blast,ÖÊ¿Ø,-
- °´´óĞ¡½ØÈ¡²âĞòÊı¾İ                                                  ,fastq_resize,ÖÊ¿Ø,-
- Êı¾İÔ¤´¦Àí¹¤¾ß                                                      ,rawdata_preprocess,ÖÊ¿Ø,-
- MEGA                                                                ,MEGA,ÒÅ´«½ø»¯,160
- ¹ØÁªÇøÓò·ÖÎö                                                        ,ED_Association_Analysis,ÒÅ´«½ø»¯,180
- »ùÓÚvcfÎÄ¼şÍ³¼ÆÅ·Ê½¾àÀë                                             ,VCF_to_ED,ÒÅ´«½ø»¯,180
- ÒÅ´«¹²ÏßĞÔ·ÖÎö                                                      ,DrawAligmentRalationMap,ÒÅ´«½ø»¯,260
- µ°°×ĞòÁĞÍ¬Ô´·ÖÎö¹¤¾ß                                                ,orthomcl,ÒÅ´«½ø»¯,-
- ¹¹½¨½ø»¯Ê÷                                                          ,evolution_tree_construct,ÒÅ´«½ø»¯,-
- »ì³ØÈºÌåFst·ÖÎö                                                     ,popoolation2_fst,ÒÅ´«½ø»¯,-
- »ùÓÚstructure½øĞĞÈºÌå½á¹¹·ÖÎö                                       ,structure_analysis,ÒÅ´«½ø»¯,-
- ±´Ò¶Ë¹·½·¨¹¹½¨½ø»¯Ê÷                                                ,MrBayes,ÒÅ´«½ø»¯,-
- »ùÓÚadmixture½øĞĞÈºÌå½á¹¹·ÖÎö                                       ,admixture,ÒÅ´«½ø»¯,-
- ¸ù¾İIDÁĞ±íÌáÈ¡fastaĞòÁĞ                                             ,extract_fasta_seq_by_id,ĞòÁĞ·ÖÎö,6
- ¼òµ¥ÖØ¸´ĞòÁĞ·ÖÎö                                                    ,SSR_Analysis,ĞòÁĞ·ÖÎö,12
- ÃÜÂë×ÓÆ«ºÃĞÔ·ÖÎö                                                    ,Codon_bias,ĞòÁĞ·ÖÎö,45
- ORFÌáÈ¡ÓëÍ³¼Æ                                                       ,Orf_Extraction,ĞòÁĞ·ÖÎö,50
- ÌáÈ¡CDSºÍIntronĞòÁĞ                                                 ,extract_fa_by_gff,ĞòÁĞ·ÖÎö,60
- ³É¶Ôfastq×ªfasta                                                    ,2fq_to_1fa,ĞòÁĞ·ÖÎö,80
- ÍâÏÔ×ÓÓëÄÚº¬×ÓÔ¤²â¹¤¾ß                                              ,Exon_intron,ĞòÁĞ·ÖÎö,80
- FASTAÎÄ¼ş¹¤¾ß¼¯,Fasta,ĞòÁĞ·ÖÎö,¡®2-10
- ĞÅºÅëÄÔ¤²â                                                          ,SignalP_analysis,ĞòÁĞ·ÖÎö,-
- ±àÂëÇøÓë·Ç±àÂëÇøÔ¤²â¹¤¾ß                                            ,CDS_UTR_predict,ĞòÁĞ·ÖÎö,-
- ×ªÂ¼Òò×Ó×¢ÊÍ¹¤¾ß                                                    ,Plant-TF,ĞòÁĞ·ÖÎö,-
- ±£ÊØĞòÁĞÔ¤²â                                                        ,motif_discovery,ĞòÁĞ·ÖÎö,-
- NESmapperºËÊä³öĞÅºÅÔ¤²â                                             ,NESmapper,ĞòÁĞ·ÖÎö,-
- NLStradamusºË¶¨Î»ĞÅºÅÔ¤²â                                           ,NLStradamus,ĞòÁĞ·ÖÎö,-
- ÑùÆ·¼ä²îÒìSNP/INDELÌáÈ¡                                             ,DiffSnpIndelExtract,Í»±ä,8
- ¹ıÂËÇ×±¾SNPÎ»µã                                                     ,SNPSelectionFromFM,Í»±ä,20
- SNPÎ»µãÒıÎïÉè¼Æ                                                     ,snp_primer,Í»±ä,60
- GATKÍ»±ä¼ì²â                                                        ,GATK_VariantCalling,Í»±ä,-
- Annovar±äÒì×¢ÊÍ                                                     ,Annovar_Annotate,Í»±ä,-
- CNVnator CNV¼ì²â                                                    ,CNVnator,Í»±ä,-
- SLAF·ÖÎö                                                            ,slaf_call_snp,Í»±ä,-
- ÎŞ²ÎSLAFµÄFstºÍÈºÌå·ÖÎö                                             ,slaf_noref_fst_population_analysis,Í»±ä,-
- ÓĞ²ÎSLAF·ÖÎö                                                        ,ref_slaf_call_snp,Í»±ä,-
- BreakDancer SV¼ì²â                                                  ,breakdancer,Í»±ä,-
- PCA·ÖÎö                                                             ,PCA_analysis,Í³¼Æ,8
- Ïà¹ØĞÔ·ÖÎö                                                          ,correlation_analysis,Í³¼Æ,8
- ĞòÁĞgapÇøÍ³¼Æ                                                       ,get_fa_gap,Í³¼Æ,20
- Í³¼Æ±È¶ÔÉÏĞòÁĞ¸²¸Ç¶È                                                ,get_coverage_from_alignment,Í³¼Æ,80
- ÌØ¶¨¼î»ùÎ»µãreads¸²¸ÇÂÊÍ³¼Æ                                         ,Reads_Distribution_stat,Í³¼Æ,200
- °´ÁĞÌáÈ¡ĞÅÏ¢                                                        ,cut_columns,Êı¾İÌáÈ¡,5
- »ùÓÚhapmapÎÄ¼şÌáÈ¡SNPĞÅÏ¢                                           ,hapmap_to_snp,Êı¾İÌáÈ¡,5
- ÌáÈ¡ÏàÓ¦IDĞĞĞÅÏ¢                                                    ,data_extract_by_ids,Êı¾İÌáÈ¡,8
- ÌáÈ¡Î»µãÉÏÏÂÓÎ¶¨³¤ĞòÁĞ                                              ,Seq_extract_by_len,Êı¾İÌáÈ¡,10
- get_TSS_up_down_stream                                              ,get_TSS_up_down_stream,Êı¾İÌáÈ¡,10
- »ùÓÚ»ùÒòID¹ıÂËGFFĞÅÏ¢                                               ,get_gene_position_by_gene_id,Êı¾İÌáÈ¡,80
- ÉúÎïÑ§ÖØ¸´¶ÔÓ¦µÄ»ùÒò±í´ïÁ¿È¡¾ùÖµ                                    ,Combine_columns_and_get_average,»ùÒò·ÖÎö,2
- ¹²±í´ïÄ£Ê½¾ÛÀà·ÖÎö                                                  ,coexpression_cluster,»ùÒò·ÖÎö,8
- µ°°×»ùÒò¼Ò×å·ÖÀà                                                    ,Pfam_scan,»ùÒò·ÖÎö,18
- »ùÒò±í´ïÁ¿T¼ìÑé                                                     ,T-test_geneExpression,»ùÒò·ÖÎö,25
- ²îÒì±í´ï»ùÒò·ÖÎö                                                    ,DEG_Analysis,»ùÒò·ÖÎö,100
- topGO»ùÒò¹¦ÄÜ×¢ÊÍ                                                   ,topGO,»ùÒò·ÖÎö,120
- edgeR·ÖÎö¹¤¾ß                                                       ,edgeR_Analysis,»ùÒò·ÖÎö,120
- CPC±àÂëÄÜÁ¦Ô¤²â                                                     ,CPC,»ùÒò·ÖÎö,280
- CNCI±àÂëÄÜÁ¦Ô¤²â                                                    ,CNCI,»ùÒò·ÖÎö,280
- µ°°×¿çÄ¤ÇøÔ¤²â                                                      ,TMHMM_for_Transmembrane,»ùÒò·ÖÎö,-
- »ùÒò¹¦ÄÜ×¢ÊÍ                                                        ,Anno_function,»ùÒò·ÖÎö,-
- ¼ÓÈ¨»ùÒò¹²±í´ïÍøÂç·ÖÎö                                              ,WGCNA,»ùÒò·ÖÎö,-
- »ùÓÚInterProÊı¾İ¿âµÄµ°°×»ùÒò¼Ò×å·ÖÀàÔ¤²â                            ,InterProScan,»ùÒò·ÖÎö,-
- »ùÓÚ¸ßÍ¨Á¿Êı¾İ»ñÈ¡ÄÚ²Î»ùÒòÈí¼ş                                      ,internal_control,»ùÒò·ÖÎö,-
- »æÖÆ±ıÍ¼                                                            ,Draw_pie_pic,»æÍ¼,4
- ¾ÛÀàÈÈÍ¼»æÖÆ                                                        ,heatmap_draw,»æÍ¼,8
- ×¢ÊÍ½á¹û±ı×´Í³¼Æ                                                    ,Plot_Pie_anno,»æÍ¼,8
- ¹²±í´ï¾ÛÀàÈÈÍ¼                                                      ,expression_cluster_heatmap,»æÍ¼,8
- »æÖÆGO¡¢KEGG·ÖÀà¸»¼¯Í¼                                              ,draw_GO_KEGG_Graph,»æÍ¼,10
- »æÖÆÖ±·½Í¼                                                          ,facetGridBar,»æÍ¼,10
- ¼òµ¥Öù×´Í¼                                                          ,simple_bar,»æÍ¼,12
- »æÖÆ²îÒì»ùÒòMAÍ¼                                                    ,MA_plot,»æÍ¼,12
- »æÖÆ²îÒì»ùÒò»ğÉ½Í¼                                                  ,Volcano_plot,»æÍ¼,12
- ±¥ºÍ¶ÈÇúÏßÍ¼                                                        ,Saturation_plot,»æÍ¼,12
- KEGG·ÖÀàÍ¼                                                          ,KEGG_Classification_Plot,»æÍ¼,15
- »æÖÆ´Ø×´Öù×´Í¼                                                      ,dodged_bar,»æÍ¼,15
- »æÖÆ·Ö×éÖù×´Í¼                                                      ,facet_wrap_bar,»æÍ¼,15
- ·Ö×éÊı¾İµãÏßÍ¼»æÖÆ                                                  ,multiData_point_line_draw,»æÍ¼,18
- ¶àÆ½Ãæ(×İÏò)µãÏßÍ¼»æÖÆ                                              ,horizontal_point_line_draw,»æÍ¼,18
- ·Ö×éÊı¾İ¶àÆ½ÃæµãÏßÍ¼»æÖÆ                                            ,facet_point_line_draw,»æÍ¼,20
- ·Ö×éÊı¾İÃæ»ıÍ¼»æÖÆ                                                  ,multiLevel_Area_draw,»æÍ¼,20
- ²îÒì»ùÒòGO¸»¼¯·ÖÎöÖù×´Í¼                                            ,GO_bar,»æÍ¼,20
- »æÖÆKEGG¸÷Í¨Â·»ùÒò¸»¼¯µã×´Í¼                                        ,KEGG_dot_plot,»æÍ¼,25
- µ¥ÒòËØÂü¹ş¶ÙÍ¼                                                      ,manhattan_onefactor_plot,»æÍ¼,28
- È¾É«Ìåreads·Ö²¼Í¼                                                   ,Random_distribution_plot,»æÍ¼,80
- ²Î¿¼»ùÒò×éreadsÍ³¼Æ·Ö²¼Í¼                                           ,Reads_Distribution,»æÍ¼,125
- Circos»æÖÆ                                                          ,draw_circos,»æÍ¼,220
- »æÍ¼¹¤¾ß                                                            ,Drawing,»æÍ¼,0
- ±í¸ñÎÄ¼ş×ªtabÎÄ¼ş                                                   ,read_window_excel,±í¸ñ´¦Àí,2
- ·Ö¸ô·û×ª»»                                                          ,delimiters_to_tab,±í¸ñ´¦Àí,2
- ĞĞÁĞ×ªÖÃ                                                            ,Transpose,±í¸ñ´¦Àí,15
- ½«¸ù¾İÈí¼şÒªÇó±àĞ´µÄlistÎÄ¼ş£¬×ª»»³Ésvg¸ñÊ½ÎÄ¼ş                     ,distribution_draw,±í¸ñ´¦Àí,80
- ±í¸ñ¹¤¾ß                                                            ,form_edit,±í¸ñ´¦Àí,0
- SAM/BAM»¥»»                                                         ,SAMtools,±È¶Ô,120
- BLAT                                                                ,BLAT,±È¶Ô,-
- BLAST                                                               ,BLAST,±È¶Ô,-
- µ°°×ÖÊ¶àĞòÁĞ±È¶Ô¹¤¾ß                                                ,Muscle,±È¶Ô,-
- ¶ÌĞòÁĞ±È¶Ô¹¤¾ßbwa                                                   ,bwa_aligner,±È¶Ô,-
- ¶àĞòÁĞ±È¶Ô¹¤¾ß                                                      ,Clustal_omega,±È¶Ô,-
- ¶ÌĞòÁĞ±È¶Ô                                                          ,SOAP_aligner,±È¶Ô,-
- ¶ÌĞòÁĞ±È¶Ô¹¤¾ßbowtie2                                               ,bowtie2_aligner,±È¶Ô,-
- lncRNA·ÖÀà¼°¶ÔÓ¦»ùÒò×¢ÊÍ                                            ,lncRNA_toolkit,ncRNA,8
- miRNA»ùÒò¼Ò×å·ÖÀà                                                   ,miRNA_family,ncRNA,150
- miRNAĞòÁĞIDÍ³¼Æ                                                     ,miRNA_miRBase_alignment,ncRNA,-
- microRNA°Ğ»ùÒòÔ¤²âÈí¼ş                                              ,TargetFinder,ncRNA,-
+å·¥å…·ä¸­æ–‡å                                          ,å·¥å…·è‹±æ–‡å,åˆ†ç±»,æ¶ˆè€—äº‘è±†
+ FLASH                                                               ,FLASH,ç»„è£…,160
+ Abyssä¸­å°åŸºå› ç»„ç»„è£…                                                 ,Assemble_by_Abyss,ç»„è£…,-
+ FASTAåºåˆ—è½¬æ¢æˆsqn                                                  ,tbl2asn,è´¨æ§,10
+ å»é™¤readä¸¤ç«¯ä½è´¨é‡ç¢±åŸº                                              ,fastq_trim,è´¨æ§,40
+ FastQC                                                              ,FastQC,è´¨æ§,80
+ è¿‡æ»¤å†—ä½™readså·¥å…·                                                   ,fastq_filter_by_duplication,è´¨æ§,100
+ è¿‡æ»¤fastqæ¥å¤´åºåˆ—                                                   ,fastq_filter_by_adapter,è´¨æ§,120
+ è¿‡æ»¤rRNAåºåˆ—                                                        ,fastq_filter_by_rRNA,è´¨æ§,120
+ åŸå§‹æ•°æ®æ±¡æŸ“ç¨‹åº¦é¢„ä¼°å·¥å…·                                            ,NT_blast,è´¨æ§,-
+ æŒ‰å¤§å°æˆªå–æµ‹åºæ•°æ®                                                  ,fastq_resize,è´¨æ§,-
+ æ•°æ®é¢„å¤„ç†å·¥å…·                                                      ,rawdata_preprocess,è´¨æ§,-
+ MEGA                                                                ,MEGA,é—ä¼ è¿›åŒ–,160
+ å…³è”åŒºåŸŸåˆ†æ                                                        ,ED_Association_Analysis,é—ä¼ è¿›åŒ–,180
+ åŸºäºvcfæ–‡ä»¶ç»Ÿè®¡æ¬§å¼è·ç¦»                                             ,VCF_to_ED,é—ä¼ è¿›åŒ–,180
+ é—ä¼ å…±çº¿æ€§åˆ†æ                                                      ,DrawAligmentRalationMap,é—ä¼ è¿›åŒ–,260
+ è›‹ç™½åºåˆ—åŒæºåˆ†æå·¥å…·                                                ,orthomcl,é—ä¼ è¿›åŒ–,-
+ æ„å»ºè¿›åŒ–æ ‘                                                          ,evolution_tree_construct,é—ä¼ è¿›åŒ–,-
+ æ··æ± ç¾¤ä½“Fståˆ†æ                                                     ,popoolation2_fst,é—ä¼ è¿›åŒ–,-
+ åŸºäºstructureè¿›è¡Œç¾¤ä½“ç»“æ„åˆ†æ                                       ,structure_analysis,é—ä¼ è¿›åŒ–,-
+ è´å¶æ–¯æ–¹æ³•æ„å»ºè¿›åŒ–æ ‘                                                ,MrBayes,é—ä¼ è¿›åŒ–,-
+ åŸºäºadmixtureè¿›è¡Œç¾¤ä½“ç»“æ„åˆ†æ                                       ,admixture,é—ä¼ è¿›åŒ–,-
+ æ ¹æ®IDåˆ—è¡¨æå–fastaåºåˆ—                                             ,extract_fasta_seq_by_id,åºåˆ—åˆ†æ,6
+ ç®€å•é‡å¤åºåˆ—åˆ†æ                                                    ,SSR_Analysis,åºåˆ—åˆ†æ,12
+ å¯†ç å­åå¥½æ€§åˆ†æ                                                    ,Codon_bias,åºåˆ—åˆ†æ,45
+ ORFæå–ä¸ç»Ÿè®¡                                                       ,Orf_Extraction,åºåˆ—åˆ†æ,50
+ æå–CDSå’ŒIntronåºåˆ—                                                 ,extract_fa_by_gff,åºåˆ—åˆ†æ,60
+ æˆå¯¹fastqè½¬fasta                                                    ,2fq_to_1fa,åºåˆ—åˆ†æ,80
+ å¤–æ˜¾å­ä¸å†…å«å­é¢„æµ‹å·¥å…·                                              ,Exon_intron,åºåˆ—åˆ†æ,80
+ FASTAæ–‡ä»¶å·¥å…·é›†,Fasta,åºåˆ—åˆ†æ,â€˜2-10
+ ä¿¡å·è‚½é¢„æµ‹                                                          ,SignalP_analysis,åºåˆ—åˆ†æ,-
+ ç¼–ç åŒºä¸éç¼–ç åŒºé¢„æµ‹å·¥å…·                                            ,CDS_UTR_predict,åºåˆ—åˆ†æ,-
+ è½¬å½•å› å­æ³¨é‡Šå·¥å…·                                                    ,Plant-TF,åºåˆ—åˆ†æ,-
+ ä¿å®ˆåºåˆ—é¢„æµ‹                                                        ,motif_discovery,åºåˆ—åˆ†æ,-
+ NESmapperæ ¸è¾“å‡ºä¿¡å·é¢„æµ‹                                             ,NESmapper,åºåˆ—åˆ†æ,-
+ NLStradamusæ ¸å®šä½ä¿¡å·é¢„æµ‹                                           ,NLStradamus,åºåˆ—åˆ†æ,-
+ æ ·å“é—´å·®å¼‚SNP/INDELæå–                                             ,DiffSnpIndelExtract,çªå˜,8
+ è¿‡æ»¤äº²æœ¬SNPä½ç‚¹                                                     ,SNPSelectionFromFM,çªå˜,20
+ SNPä½ç‚¹å¼•ç‰©è®¾è®¡                                                     ,snp_primer,çªå˜,60
+ GATKçªå˜æ£€æµ‹                                                        ,GATK_VariantCalling,çªå˜,-
+ Annovarå˜å¼‚æ³¨é‡Š                                                     ,Annovar_Annotate,çªå˜,-
+ CNVnator CNVæ£€æµ‹                                                    ,CNVnator,çªå˜,-
+ SLAFåˆ†æ                                                            ,slaf_call_snp,çªå˜,-
+ æ— å‚SLAFçš„Fstå’Œç¾¤ä½“åˆ†æ                                             ,slaf_noref_fst_population_analysis,çªå˜,-
+ æœ‰å‚SLAFåˆ†æ                                                        ,ref_slaf_call_snp,çªå˜,-
+ BreakDancer SVæ£€æµ‹                                                  ,breakdancer,çªå˜,-
+ PCAåˆ†æ                                                             ,PCA_analysis,ç»Ÿè®¡,8
+ ç›¸å…³æ€§åˆ†æ                                                          ,correlation_analysis,ç»Ÿè®¡,8
+ åºåˆ—gapåŒºç»Ÿè®¡                                                       ,get_fa_gap,ç»Ÿè®¡,20
+ ç»Ÿè®¡æ¯”å¯¹ä¸Šåºåˆ—è¦†ç›–åº¦                                                ,get_coverage_from_alignment,ç»Ÿè®¡,80
+ ç‰¹å®šç¢±åŸºä½ç‚¹readsè¦†ç›–ç‡ç»Ÿè®¡                                         ,Reads_Distribution_stat,ç»Ÿè®¡,200
+ æŒ‰åˆ—æå–ä¿¡æ¯                                                        ,cut_columns,æ•°æ®æå–,5
+ åŸºäºhapmapæ–‡ä»¶æå–SNPä¿¡æ¯                                           ,hapmap_to_snp,æ•°æ®æå–,5
+ æå–ç›¸åº”IDè¡Œä¿¡æ¯                                                    ,data_extract_by_ids,æ•°æ®æå–,8
+ æå–ä½ç‚¹ä¸Šä¸‹æ¸¸å®šé•¿åºåˆ—                                              ,Seq_extract_by_len,æ•°æ®æå–,10
+ get_TSS_up_down_stream                                              ,get_TSS_up_down_stream,æ•°æ®æå–,10
+ åŸºäºåŸºå› IDè¿‡æ»¤GFFä¿¡æ¯                                               ,get_gene_position_by_gene_id,æ•°æ®æå–,80
+ ç”Ÿç‰©å­¦é‡å¤å¯¹åº”çš„åŸºå› è¡¨è¾¾é‡å–å‡å€¼                                    ,Combine_columns_and_get_average,åŸºå› åˆ†æ,2
+ å…±è¡¨è¾¾æ¨¡å¼èšç±»åˆ†æ                                                  ,coexpression_cluster,åŸºå› åˆ†æ,8
+ è›‹ç™½åŸºå› å®¶æ—åˆ†ç±»                                                    ,Pfam_scan,åŸºå› åˆ†æ,18
+ åŸºå› è¡¨è¾¾é‡Tæ£€éªŒ                                                     ,T-test_geneExpression,åŸºå› åˆ†æ,25
+ å·®å¼‚è¡¨è¾¾åŸºå› åˆ†æ                                                    ,DEG_Analysis,åŸºå› åˆ†æ,100
+ topGOåŸºå› åŠŸèƒ½æ³¨é‡Š                                                   ,topGO,åŸºå› åˆ†æ,120
+ edgeRåˆ†æå·¥å…·                                                       ,edgeR_Analysis,åŸºå› åˆ†æ,120
+ CPCç¼–ç èƒ½åŠ›é¢„æµ‹                                                     ,CPC,åŸºå› åˆ†æ,280
+ CNCIç¼–ç èƒ½åŠ›é¢„æµ‹                                                    ,CNCI,åŸºå› åˆ†æ,280
+ è›‹ç™½è·¨è†œåŒºé¢„æµ‹                                                      ,TMHMM_for_Transmembrane,åŸºå› åˆ†æ,-
+ åŸºå› åŠŸèƒ½æ³¨é‡Š                                                        ,Anno_function,åŸºå› åˆ†æ,-
+ åŠ æƒåŸºå› å…±è¡¨è¾¾ç½‘ç»œåˆ†æ                                              ,WGCNA,åŸºå› åˆ†æ,-
+ åŸºäºInterProæ•°æ®åº“çš„è›‹ç™½åŸºå› å®¶æ—åˆ†ç±»é¢„æµ‹                            ,InterProScan,åŸºå› åˆ†æ,-
+ åŸºäºé«˜é€šé‡æ•°æ®è·å–å†…å‚åŸºå› è½¯ä»¶                                      ,internal_control,åŸºå› åˆ†æ,-
+ ç»˜åˆ¶é¥¼å›¾                                                            ,Draw_pie_pic,ç»˜å›¾,4
+ èšç±»çƒ­å›¾ç»˜åˆ¶                                                        ,heatmap_draw,ç»˜å›¾,8
+ æ³¨é‡Šç»“æœé¥¼çŠ¶ç»Ÿè®¡                                                    ,Plot_Pie_anno,ç»˜å›¾,8
+ å…±è¡¨è¾¾èšç±»çƒ­å›¾                                                      ,expression_cluster_heatmap,ç»˜å›¾,8
+ ç»˜åˆ¶GOã€KEGGåˆ†ç±»å¯Œé›†å›¾                                              ,draw_GO_KEGG_Graph,ç»˜å›¾,10
+ ç»˜åˆ¶ç›´æ–¹å›¾                                                          ,facetGridBar,ç»˜å›¾,10
+ ç®€å•æŸ±çŠ¶å›¾                                                          ,simple_bar,ç»˜å›¾,12
+ ç»˜åˆ¶å·®å¼‚åŸºå› MAå›¾                                                    ,MA_plot,ç»˜å›¾,12
+ ç»˜åˆ¶å·®å¼‚åŸºå› ç«å±±å›¾                                                  ,Volcano_plot,ç»˜å›¾,12
+ é¥±å’Œåº¦æ›²çº¿å›¾                                                        ,Saturation_plot,ç»˜å›¾,12
+ KEGGåˆ†ç±»å›¾                                                          ,KEGG_Classification_Plot,ç»˜å›¾,15
+ ç»˜åˆ¶ç°‡çŠ¶æŸ±çŠ¶å›¾                                                      ,dodged_bar,ç»˜å›¾,15
+ ç»˜åˆ¶åˆ†ç»„æŸ±çŠ¶å›¾                                                      ,facet_wrap_bar,ç»˜å›¾,15
+ åˆ†ç»„æ•°æ®ç‚¹çº¿å›¾ç»˜åˆ¶                                                  ,multiData_point_line_draw,ç»˜å›¾,18
+ å¤šå¹³é¢(çºµå‘)ç‚¹çº¿å›¾ç»˜åˆ¶                                              ,horizontal_point_line_draw,ç»˜å›¾,18
+ åˆ†ç»„æ•°æ®å¤šå¹³é¢ç‚¹çº¿å›¾ç»˜åˆ¶                                            ,facet_point_line_draw,ç»˜å›¾,20
+ åˆ†ç»„æ•°æ®é¢ç§¯å›¾ç»˜åˆ¶                                                  ,multiLevel_Area_draw,ç»˜å›¾,20
+ å·®å¼‚åŸºå› GOå¯Œé›†åˆ†ææŸ±çŠ¶å›¾                                            ,GO_bar,ç»˜å›¾,20
+ ç»˜åˆ¶KEGGå„é€šè·¯åŸºå› å¯Œé›†ç‚¹çŠ¶å›¾                                        ,KEGG_dot_plot,ç»˜å›¾,25
+ å•å› ç´ æ›¼å“ˆé¡¿å›¾                                                      ,manhattan_onefactor_plot,ç»˜å›¾,28
+ æŸ“è‰²ä½“readsåˆ†å¸ƒå›¾                                                   ,Random_distribution_plot,ç»˜å›¾,80
+ å‚è€ƒåŸºå› ç»„readsç»Ÿè®¡åˆ†å¸ƒå›¾                                           ,Reads_Distribution,ç»˜å›¾,125
+ Circosç»˜åˆ¶                                                          ,draw_circos,ç»˜å›¾,220
+ ç»˜å›¾å·¥å…·                                                            ,Drawing,ç»˜å›¾,0
+ è¡¨æ ¼æ–‡ä»¶è½¬tabæ–‡ä»¶                                                   ,read_window_excel,è¡¨æ ¼å¤„ç†,2
+ åˆ†éš”ç¬¦è½¬æ¢                                                          ,delimiters_to_tab,è¡¨æ ¼å¤„ç†,2
+ è¡Œåˆ—è½¬ç½®                                                            ,Transpose,è¡¨æ ¼å¤„ç†,15
+ å°†æ ¹æ®è½¯ä»¶è¦æ±‚ç¼–å†™çš„listæ–‡ä»¶ï¼Œè½¬æ¢æˆsvgæ ¼å¼æ–‡ä»¶                     ,distribution_draw,è¡¨æ ¼å¤„ç†,80
+ è¡¨æ ¼å·¥å…·                                                            ,form_edit,è¡¨æ ¼å¤„ç†,0
+ SAM/BAMäº’æ¢                                                         ,SAMtools,æ¯”å¯¹,120
+ BLAT                                                                ,BLAT,æ¯”å¯¹,-
+ BLAST                                                               ,BLAST,æ¯”å¯¹,-
+ è›‹ç™½è´¨å¤šåºåˆ—æ¯”å¯¹å·¥å…·                                                ,Muscle,æ¯”å¯¹,-
+ çŸ­åºåˆ—æ¯”å¯¹å·¥å…·bwa                                                   ,bwa_aligner,æ¯”å¯¹,-
+ å¤šåºåˆ—æ¯”å¯¹å·¥å…·                                                      ,Clustal_omega,æ¯”å¯¹,-
+ çŸ­åºåˆ—æ¯”å¯¹                                                          ,SOAP_aligner,æ¯”å¯¹,-
+ çŸ­åºåˆ—æ¯”å¯¹å·¥å…·bowtie2                                               ,bowtie2_aligner,æ¯”å¯¹,-
+ lncRNAåˆ†ç±»åŠå¯¹åº”åŸºå› æ³¨é‡Š                                            ,lncRNA_toolkit,ncRNA,8
+ miRNAåŸºå› å®¶æ—åˆ†ç±»                                                   ,miRNA_family,ncRNA,150
+ miRNAåºåˆ—IDç»Ÿè®¡                                                     ,miRNA_miRBase_alignment,ncRNA,-
+ microRNAé¶åŸºå› é¢„æµ‹è½¯ä»¶                                              ,TargetFinder,ncRNA,-
