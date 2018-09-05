@@ -11,4 +11,4 @@
 
 目前注册用户可以通过消耗云豆使用其中的70+款工具，另外30+款工具，由于消耗计算较多，因此暂时未对注册用户开发。所有工具及消耗云豆情况见下表：
 
-{% includeCsv src="./img/工具资源使用情况及云豆-201807.csv", encoding="utf-8", useHeader="true" %}{% endincludeCsv %}
+{% includeCsv src="./tools-on-bmkcloud/img/工具资源使用情况及云豆-201807.csv", encoding="utf-8", useHeader="true" %}{% endincludeCsv %}
