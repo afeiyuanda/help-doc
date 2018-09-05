@@ -78,7 +78,7 @@
             "tag": "b"
         },
         "page-footer-ex": {
-            "copyright": "© 2017 biocloud.net版权所有 京ICP备16057269号",
+            "copyright": "",
             "markdown": false,
             "update_label": "更新时间：",
             "update_format": "YYYY-MM-DD HH:mm:ss"
