@@ -2,11 +2,7 @@
 
 接下来带您进行一次完整的百迈客云平台体验。
 
-> ![warn](../basic-img/warning.png)在此已默认您登陆百迈客云平台，否则请先[登录](https://international.biocloud.net/zh/user/login)，登陆和注册可以参考[账号设置](account-settings.md)。
-
-> **[warn]**
->
-> 在此已默认您登陆百迈客云平台，否则请先[登录](https://international.biocloud.net/zh/user/login)，登陆和注册可以参考[账号设置](account-settings.md)。
+> **[warning]** 在此已默认您登陆百迈客云平台，否则请先[登录](https://international.biocloud.net/zh/user/login)，登陆和注册可以参考[账号设置](account-settings.md)。
 
 ### 创建项目
 
@@ -14,7 +10,7 @@
 
 ![创建项目](./img/create-a-project.png)
 
-> ![warn](../basic-img/warning.png)如果已经创建了项目，可跳过该步骤。
+> **[warning]** 如果已经创建了项目，可跳过该步骤。
 
 ### 上传数据
 

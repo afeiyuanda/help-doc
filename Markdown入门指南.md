@@ -127,7 +127,28 @@ MWeb特性：
 
 使用Gitbook书写的《[Gitbook 学习使用笔记](https://zq99299.gitbooks.io/gitbook-guide/)》。
 
+Info styling
+> **[info] For info**
+>
+> Use this for infomation messages.
 
+Warning styling
+> **[warning] For warning**
+>
+> Use this for warning messages.
+
+Danger styling
+> **[danger] For danger**
+>
+> Use this for danger messages.
+
+Success styling
+> **[success] For info**
+>
+> Use this for success messages.
+
+
+{% includeCsv src="./other/test.csv", encoding="utf-8", useHeader="true" %}{% endincludeCsv %}
 
 
 [evernote]: https://www.yinxiang.com/
