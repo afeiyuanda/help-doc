@@ -79,7 +79,7 @@
 
 #### 功能说明
 
-```
+```mermaid
 graph LR;
     mydata(我的数据) --> quick-button(快捷按钮);
     mydata(我的数据) --> more(更多按钮);
@@ -103,7 +103,7 @@ graph LR;
 ##### 文本合并
 
 选中**2个以上**的**文本文件**文件，可以进行此项操作，云平台上的文本文件包含以下所有类型，同时支持调整所选择的样品的顺序
-```
+```mermaid
 graph TB;
     txt(txt) --> fasta(fasta);
     txt(txt) --> fastq(fastq);
