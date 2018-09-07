@@ -1,7 +1,7 @@
-## bowtie
+# bowtie
 The intent of this document is to state the conditions under which a Package may be copied, such that the Copyright Holder maintains some semblance of artistic control over the development of the package, while giving the users of the package the right to use and distribute the Package in a more-or-less customary fashion, plus the right to make reasonable modifications.
 
-### Definitions
+## Definitions
 * "Package" refers to the collection of files distributed by the Copyright Holder, and derivatives of that collection of files created through textual modification.
 * "Standard Version" refers to such a Package if it has not been modified, or has been modified in accordance with the wishes of the Copyright Holder.
 * "Copyright Holder" is whoever is named in the copyright or copyrights for the package.
@@ -35,5 +35,5 @@ The intent of this document is to state the conditions under which a Package may
 
 9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-### The End
+## The End
 This license is approved by the Open Source Initiative (www.opensource.org) for certifying software as OSI Certified Open Source.
