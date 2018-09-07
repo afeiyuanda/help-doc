@@ -24,8 +24,3 @@
 
 ![百迈客云功能展示](./intro-img/intro-3.png)
 
-## 推荐内容
-
-* [马上开始](get-started/quick-start.md)
-* [创建项目](get-started/quick-start.md#创建项目)，这里演示锚定到其他页面的章节。
-* [项目管理](manage-an-analysis-environment.md)
