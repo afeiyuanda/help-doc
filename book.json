@@ -85,6 +85,14 @@
         },
         "chart": {
             "type": "highcharts"
+        },
+        "styles": {
+            "website": "styles/website.css"
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
         }
     }
 }
