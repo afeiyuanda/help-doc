@@ -4,7 +4,7 @@
 
 提交测序数据到SRA数据库，需要用户先注册NCBI账号，并获取SRA上传目录。
 
-## 获取SRA上传目录
+# 获取SRA上传目录
 
 1. 登录NCBI上传[主页](https://submit.ncbi.nlm.nih.gov/)，如果没有NCBI帐号，需要先注册。
 
@@ -19,7 +19,7 @@
 上传目录命名规则是 “用户邮箱 + 下划线 + 8位随机字符”，例如:simonyoung2014@icloud.com_5q8Qb0zL
 ![](./img/submission-port-s3.png)
 
-## SRA数据提交步骤
+# SRA数据提交步骤
 
 用户提交测序数据到SRA数据库，需要经历以下几个步骤：
 

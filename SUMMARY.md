@@ -37,9 +37,10 @@
     * [医学数据库](public-database/clinical-database.md)
     * [功能定位数据库](public-database/qtl-database.md)
     * [互作数据库](public-database/interaction-database.md)
-* [提交数据到NCBI](submit-data-to-NCBI.md)
-    * [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)
-    * [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
+
+[^_^]:
+    * [提交数据到NCBI](submit-data-to-NCBI.md)* [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)* [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
+    
 * [个性化分析方案](personal-analyse.md)
     * [如何对样品中共表达的基因进行筛选](./personal-analyse/coexpression-gene-screen.md)
     * [如何提高分析结果中差异表达基因数量](./personal-analyse/increase-deg.md)
@@ -49,4 +50,5 @@
 * [已部署参考基因组](reference-genome.md)
 * [名词解释](word-explanation.md)
 * [常见数据格式说明](file-format-intro.md)
-* [版权说明](software-copyright.md)
+[^_^]:
+    * [版权说明](software-copyright.md)
