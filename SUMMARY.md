@@ -50,4 +50,5 @@
 * [已部署参考基因组](reference-genome.md)
 * [名词解释](word-explanation.md)
 * [常见数据格式说明](file-format-intro.md)
-* [版权说明](software-copyright.md)
+[^_^]:
+    * [版权说明](software-copyright.md)
