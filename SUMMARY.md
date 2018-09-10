@@ -37,8 +37,11 @@
     * [医学数据库](public-database/clinical-database.md)
     * [功能定位数据库](public-database/qtl-database.md)
     * [互作数据库](public-database/interaction-database.md)
+[^_^]:
 * [提交数据到NCBI](submit-data-to-NCBI.md)
+[^_^]:
     * [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)
+[^_^]:
     * [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
 * [个性化分析方案](personal-analyse.md)
     * [如何对样品中共表达的基因进行筛选](./personal-analyse/coexpression-gene-screen.md)
