@@ -39,7 +39,7 @@
     * [互作数据库](public-database/interaction-database.md)
 
 [^_^]:
-* [提交数据到NCBI](submit-data-to-NCBI.md)* [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)* [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
+    * [提交数据到NCBI](submit-data-to-NCBI.md)* [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)* [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
     
 * [个性化分析方案](personal-analyse.md)
     * [如何对样品中共表达的基因进行筛选](./personal-analyse/coexpression-gene-screen.md)
