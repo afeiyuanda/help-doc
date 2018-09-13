@@ -1,4 +1,4 @@
-# 帮助中心
+# 知识中心
 
 * [百迈客云平台介绍](introduction.md)
 * [入门指南](get-started.md)
