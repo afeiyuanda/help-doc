@@ -9,7 +9,7 @@
 * [基础功能介绍](website-map.md)
     * [总览页](website-map/overview-page.md)
     * [项目管理](website-map/project-manage.md)
-    * [个性化定制](website-map/project-manage.md)
+    * [个性化定制](website-map/个性化定制.md)
     * [数据上传](website-map/data-upload.md)
     * [分析](website-map/analyse.md)
     * [数据库](website-map/database.md)
