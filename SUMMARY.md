@@ -21,7 +21,7 @@
     * [真核生物有参考基因组的转录组分析平台](workflow-on-bmkcloud/ref-help.md)
     * [真核生物无参考基因组的转录组分析平台](workflow-on-bmkcloud/noref-help.md)
     * [微生物多样性分析平台](workflow-on-bmkcloud/microbial-diversity-help.md)
-    * [小RNA测序分析平台](workflow-on-bmkcloud/sran-help.md)
+    * [小RNA测序分析平台](workflow-on-bmkcloud/srna-help.md)
     * [长链非编码RNA测序分析平台](workflow-on-bmkcloud/lncrna-help.md)
     * [蛋白质组分析平台](workflow-on-bmkcloud/protein-help.md)
     * [代谢组分析平台](workflow-on-bmkcloud/metabolism-help.md)
@@ -29,6 +29,7 @@
     * [工具入门引导](tools-on-bmkcloud/tools-help.md)
     * [绘图工具](tools-on-bmkcloud/drawtools-help.md)
     * [FASTA文件工具集](tools-on-bmkcloud/fasta-help.md)
+
 [^_^]:
     * [表格工具](tools-on-bmkcloud/table-help.md)
 * [数据库使用](public-database.md)
@@ -39,6 +40,7 @@
     * [医学数据库](public-database/clinical-database.md)
     * [功能定位数据库](public-database/qtl-database.md)
     * [互作数据库](public-database/interaction-database.md)
+
 [^_^]:
     * [提交数据到NCBI](submit-data-to-NCBI.md)* [提交测序数据到SRA](submit-data-to-NCBI/submit-data-to-SRA-directly.md)* [提交组装数据到TSA](submit-data-to-NCBI/submit-data-to-TSA.md)
 * [个性化分析方案](personal-analyse.md)
