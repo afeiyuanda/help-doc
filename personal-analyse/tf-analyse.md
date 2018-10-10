@@ -1,15 +1,13 @@
-# 如何提高分析结果中差异表达基因数量
+# 转录因子的查找及功能预测
 ## 分析需求介绍
-无
+转录因子(transcription factor)是一群能与基因5`端上游特定序列专一性结合，从而保证目的基因以特定的强度在特定的时间与空间表达的质蛋白分子。
 
 ## 具体需求描述
-1. 我想找一下“某某”蛋白？
-2. 请帮我分析一下差异基因里有哪些基因注释到了“某某”通路？
+1. 我想看一下项目里有多少转录因子？
+2. 我想分析一下那些转录因子发生了作用 ?
 
 ## 分析方法说明
-1. 筛选功能基因，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
-2. 基因集功能筛选富集，分析工具：[绘图工具](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25673213c01567334706d0001)
-3. 基因集热图绘制，分析工具：[绘图工具](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25673213c01567334706d0001)
+1. 所有基因进行转录因子预测，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
 
 ## 分析流程图
 无

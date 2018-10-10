@@ -1,15 +1,14 @@
-# 如何提高分析结果中差异表达基因数量
+# 不同样品中变异SNP位点分析及后期验证
 ## 分析需求介绍
-无
+全称Single Nucleotide Polymorphisms，是指在基因组上单个核苷酸的变异，包括转换、颠换、缺失和插入，形成的遗传标记，其数量很多，多态性丰富。从理论上来看每一个SNP 位点都可以有4 种不同的变异形式,但实际上发生的只有两种，即转换和颠换,二者之比为2：1。SNP 在CG序列上出现最为频繁，而且多是C转换为T ,原因是CG中的胞嘧啶常被甲基化,而后自发地脱氨成为胸腺嘧啶。一般而言,SNP 是指变异频率大于1 %的单核苷酸变异。在人类基因组中大概每1000 个碱基就有一个SNP ,人类基因组上的SNP 总量大概是3 ×10^6 个 。因此,SNP成为第三代遗传标志,人体许多表型差异、对药物或疾病的易感性等等都可能与SNP有关。
 
 ## 具体需求描述
-1. 我想找一下“某某”蛋白？
-2. 请帮我分析一下差异基因里有哪些基因注释到了“某某”通路？
+1. 我想对比分析两个样品有哪些SNP位点的差异？后期如何验证这些SNP位点？
+2. 我关注一些基因，我想看一下它们在不同样品里有哪些SNP位点的差异 ?
 
 ## 分析方法说明
-1. 筛选功能基因，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
-2. 基因集功能筛选富集，分析工具：[绘图工具](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25673213c01567334706d0001)
-3. 基因集热图绘制，分析工具：[绘图工具](https://international.biocloud.net/zh/software/tools/detail/small/8a8300b25673213c01567334706d0001)
+1. 筛选样品间差异SNP，分析平台：[真核生物有参考基因组的转录组分析平台](https://international.biocloud.net/zh/software/agriculture/detail/8a817f674fd9e535014fda7080080a9b)
+2. 对差异的SNP设计引物，分析工具：[SNP位点引物设计](https://international.biocloud.net/zh/software/tools/detail/small/8a817f67500765770150089563a9206a)
 
 ## 分析流程图
 无
