@@ -48,6 +48,8 @@
 ## 更多推荐内容
 
 * [分析平台极速体验](workflow-on-bmkcloud/quick-use-workflow.md)
-* [绘图工具集](tools-on-bmkcloud/drawtools-help.md)
+* [工具入门引导](tools-on-bmkcloud/tools-help.md)
 * [高通量测序数据库](public-database/sra-on-bmkcloud.md)
-* [功能基因数据库](public-database//gene-database.md)
+
+[^_^]:
+* [功能基因数据库](public-database/gene-database.md)

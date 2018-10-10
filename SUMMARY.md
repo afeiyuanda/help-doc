@@ -28,8 +28,13 @@
 * [分析工具使用](tools-on-bmkcloud.md)
     * [工具入门引导](tools-on-bmkcloud/tools-help.md)
     * [绘图工具](tools-on-bmkcloud/drawtools-help.md)
+    
+[^_^]:
     * [FASTA文件工具集](tools-on-bmkcloud/fasta-help.md)
+    
+[^_^]:
     * [表格工具](tools-on-bmkcloud/table-help.md)
+    
 * [数据库使用](public-database.md)
     * [高通量测序数据库](public-database/sra-on-bmkcloud.md)
     * [参考基因组数据库](public-database/reference-database.md)
