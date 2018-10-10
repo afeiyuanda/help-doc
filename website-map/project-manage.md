@@ -26,7 +26,7 @@
 
 4. 销售可以在微信端查看自己负责客户的项目进展
 
-![project-progress](img/project-progress.png)
+    ![project-progress](img/project-progress.png)
 
 ## 我的任务
 
